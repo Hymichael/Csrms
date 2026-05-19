@@ -14,7 +14,3 @@ Default accounts:
 - Admin: email=admin@example.com password=Admin@123
 - Staff: email=staff@example.com password=Staff@123
 
-Notes:
-- Uses password_hash() for security.
-- Basic functionality: login, car inventory (add/list), rent, return, simple reports.
-- This is a compact starter implementation; extend and secure for production use.
