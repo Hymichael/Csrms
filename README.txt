@@ -1,4 +1,4 @@
-Car Sales & Rental Management System (CSRMS)
+Royal Car Sales & Rental Management System (CSRMS)(final project)
 -------------------------------------------
 A simple PHP + MySQL implementation based on the project document.
 Target: XAMPP (place folder inside htdocs)
