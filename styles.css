@@ -1,0 +1,12 @@
+body{font-family: Arial, Helvetica, sans-serif;background:#f4f6f8;color:#222;margin:0}
+.container{max-width:860px;margin:30px auto;padding:20px;background:#fff;border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.08)}
+.topbar{display:flex;justify-content:space-between;padding:12px 20px;background:#0f62fe;color:#fff}
+h2{margin-top:0}
+input,select,textarea{display:block;width:100%;padding:8px;margin:6px 0 12px;border:1px solid #ccc;border-radius:4px}
+button{background:#0f62fe;color:#fff;padding:10px 14px;border:none;border-radius:4px;cursor:pointer}
+.table{width:100%;border-collapse:collapse}
+.table th,.table td{padding:8px;border:1px solid #ddd;text-align:left}
+.cards{display:flex;gap:12px}
+.card{flex:1;padding:12px;background:#eef6ff;border-radius:6px;text-align:center}
+.error{background:#ffe6e6;padding:10px;border-radius:4px;color:#900}
+a{color:#0f62fe}
